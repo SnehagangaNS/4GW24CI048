@@ -1,2 +1,5 @@
-# 4GW24CI048
-uploading the work in the respective folders
+MY PORTFOLIO:
+Welcome to my portfolio !This  repository showcases my projects ,skills .
+ABOUT ME:
+HI
+I am SNEHAGANGA N S ,currently studying in 3rd semester CSE(AIML)
